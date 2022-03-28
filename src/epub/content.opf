@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/pericles</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-03-28T02:33:52Z</dc:date>
+		<meta property="dcterms:modified">2022-03-28T02:33:52Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,17 +43,17 @@
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A Tyrian prince flees after he discovers a terrible secret.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;King Antiochus has issued a challenge to any suitor proposing marriage to his daughter: answer a seemingly impossible riddle correctly or die. Pericles, the Prince of Tyre, discovers the true answer to the puzzle, but in doing so, he unearths the incestuous relationship between the king and his daughter. Pericles decides not to reveal the truth, and King Antiochus gives him 40 days before his execution. When Antiochus hears that the prince has fled back to Tyre, he sends an assassin after him.&lt;/p&gt;
-			&lt;p&gt;At the advice of his councilor, Helicanus, Pericles plans to travel until Antiochus no longer wants to kill him. The first location he travels to is Tarsus, where the population is tormented by a famine. Pericles gives the corn that was on his ship to the starving people. Pericles sets sail again, where he encounters a brutal storm that leaves him shipwrecked in Pentapolis.&lt;/p&gt;
-			&lt;p&gt;This play draws from many sources: Confessio Amantis, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant"&gt;The Odyssey&lt;/a&gt;&lt;/i&gt;, Sir Philip Sidney’s Arcadia, and Plutarch’s Lives. The author of the Confessio Amantis, John Gower, appears in the play as the chorus. The themes of separated families and mistaken death reference back to earlier plays like &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors"&gt;The Comedy of Errors&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;King Antiochus has issued a challenge to any suitor proposing marriage to his daughter: answer a seemingly-impossible riddle correctly, or die. Pericles, the Prince of Tyre, discovers the answer to the puzzle, but in doing so, he unearths the incestuous relationship between the king and his daughter. Pericles decides not to reveal the truth, and King Antiochus gives him forty days before his execution. When Antiochus hears that the prince has fled back to Tyre, he sends an assassin after him.&lt;/p&gt;
+			&lt;p&gt;At the advice of his councilor, Helicanus, Pericles plans to travel until Antiochus no longer wants to kill him. On his journeys he encounters a brutal storm that leaves him shipwrecked in Pentapolis.&lt;/p&gt;
+			&lt;p&gt;This play draws from many sources: &lt;i&gt;Confessio Amantis&lt;/i&gt; by John Gower (who appears in the play as the chorus), &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant"&gt;The Odyssey&lt;/a&gt;&lt;/i&gt;, Sir Philip Sidney’s &lt;i&gt;Arcadia&lt;/i&gt;, and Plutarch’s &lt;i&gt;Lives&lt;/i&gt;. The themes of separated families and mistaken death refer back to Shakespeare’s earlier plays, like &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors"&gt;The Comedy of Errors&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/pericles/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">20043</meta>
+		<meta property="se:reading-ease.flesch">81.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pericles,_Prince_of_Tyre</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_pericles</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -78,6 +78,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
