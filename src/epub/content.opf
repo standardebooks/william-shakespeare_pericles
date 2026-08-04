@@ -43,7 +43,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A Tyrian prince flees after he discovers a terrible secret.</dc:abstract>
+		<meta property="schema:abstract">A Tyrian prince flees after he discovers a terrible secret.</meta>
 		<dc:description>
 			&lt;p&gt;King Antiochus has issued a challenge to any suitor proposing marriage to his daughter: answer a seemingly impossible riddle correctly, or die. Pericles, the Prince of Tyre, discovers the answer to the puzzle, but in doing so, he unearths the incestuous relationship between the king and his daughter. Pericles decides not to reveal the truth, and King Antiochus gives him forty days before his execution. When Antiochus hears that the prince has fled back to Tyre, he sends an assassin after him.&lt;/p&gt;
 			&lt;p&gt;At the advice of his councilor, Helicanus, Pericles plans to travel until Antiochus no longer wants to kill him. On his journeys he encounters a brutal storm that leaves him shipwrecked in Pentapolis.&lt;/p&gt;
