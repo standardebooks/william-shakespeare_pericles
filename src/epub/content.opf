@@ -32,8 +32,8 @@
 		<meta property="file-as" refines="#title">Pericles</meta>
 		<meta property="dcterms:alternative" refines="#title">Pericles, Prince of Tyre</meta>
 		<dc:subject id="subject-1">Tragicomedy</dc:subject>
-		<dc:subject id="subject-2">Princes -- Lebanon -- Tyre -- Drama</dc:subject>
-		<dc:subject id="subject-3">Tyre (Lebanon) -- Drama</dc:subject>
+		<dc:subject id="subject-2">Princes--Lebanon--Tyre--Drama</dc:subject>
+		<dc:subject id="subject-3">Tyre (Lebanon)--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85136792</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
